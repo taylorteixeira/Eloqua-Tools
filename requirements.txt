@@ -1,0 +1,4 @@
+requests==2.28.1       # Para interagir com a API do Eloqua
+pandas==2.1.0          # Para manipulação de dados e análises
+python-dotenv==1.0.0   # Para gerenciar variáveis de ambiente (.env)
+openpyxl==3.1.2        # Para leitura e escrita de arquivos Excel, se necessário
