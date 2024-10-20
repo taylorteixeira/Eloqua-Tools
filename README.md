@@ -19,7 +19,7 @@ Este repositório contém um conjunto de ferramentas desenvolvidas para melhorar
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/eloqua-automation-utilities.git
+    git clone 
     ```
 2. **Instale as dependências necessárias:**
     Dependendo da linguagem e framework utilizados, siga o processo de instalação de bibliotecas especificado na seção [Dependências](#dependências).
@@ -27,8 +27,8 @@ Este repositório contém um conjunto de ferramentas desenvolvidas para melhorar
 3. **Configuração da API do Eloqua:**
     Configure as variáveis de ambiente no arquivo `.env` ou diretamente no código, conforme o necessário:
     ```env
-    ELOQUA_API_KEY=seu_api_key
-    ELOQUA_SECRET=seu_secret
+    ELOQUA_USERNAME
+    ELOQUA_PASSWORD
     ```
 
 4. **Execute a automação:**
