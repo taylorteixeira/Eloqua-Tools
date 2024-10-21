@@ -1,6 +1,12 @@
 # Eloqua Automation Utilities
 
-Este repositório contém um conjunto de ferramentas desenvolvidas para melhorar a automação de processos dentro da plataforma Oracle Eloqua. Com essas utilities, é possível automatizar fluxos de trabalho, segmentação de público, integrar com CRMs e gerar análises de campanhas com maior precisão e rapidez.
+<p align="center">
+    Este repositório contém um conjunto de ferramentas desenvolvidas para melhorar a automação de processos dentro da plataforma Oracle Eloqua. Com essas utilities, é possível automatizar fluxos de trabalho, segmentação de público, integrar com CRMs e gerar análises de campanhas com maior precisão e rapidez.
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
 ## Funcionalidades Principais
 
