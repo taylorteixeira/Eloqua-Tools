@@ -1,0 +1,176 @@
+{
+  "totalSize": 17,
+  "done": true,
+  "records": [
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000Cj8CF2AZ"
+      },
+      "Id": "00QPA00000Cj8CF2AZ",
+      "Name": "Christina Lucky",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CjZ182AF"
+      },
+      "Id": "00QPA00000CjZ182AF",
+      "Name": "Fname Lname",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CjozR2AR"
+      },
+      "Id": "00QPA00000CjozR2AR",
+      "Name": "Fname Lname",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CjpDx2AJ"
+      },
+      "Id": "00QPA00000CjpDx2AJ",
+      "Name": "Fname Lname",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CjzbV2AR"
+      },
+      "Id": "00QPA00000CjzbV2AR",
+      "Name": "Ben Bury",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000Ck1IL2AZ"
+      },
+      "Id": "00QPA00000Ck1IL2AZ",
+      "Name": "Beata Gocyk-Farber",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000Ck99R2AR"
+      },
+      "Id": "00QPA00000Ck99R2AR",
+      "Name": "Jennifer Harris",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkHBp2AN"
+      },
+      "Id": "00QPA00000CkHBp2AN",
+      "Name": "Lisa Brimm",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkImD2AV"
+      },
+      "Id": "00QPA00000CkImD2AV",
+      "Name": "Lori Berstein",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkQS12AN"
+      },
+      "Id": "00QPA00000CkQS12AN",
+      "Name": "Patrick Radachi",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkT9l2AF"
+      },
+      "Id": "00QPA00000CkT9l2AF",
+      "Name": "Roya Capasso",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkTmT2AV"
+      },
+      "Id": "00QPA00000CkTmT2AV",
+      "Name": "Kirt Martsching",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkV9x2AF"
+      },
+      "Id": "00QPA00000CkV9x2AF",
+      "Name": "Karol Klinker",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkQGk2AN"
+      },
+      "Id": "00QPA00000CkQGk2AN",
+      "Name": "Ling Li",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkXN42AN"
+      },
+      "Id": "00QPA00000CkXN42AN",
+      "Name": "Roya Capasso",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkaRN2AZ"
+      },
+      "Id": "00QPA00000CkaRN2AZ",
+      "Name": "Rishi Ladwa",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    },
+    {
+      "attributes": {
+        "type": "Lead",
+        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkgtN2AR"
+      },
+      "Id": "00QPA00000CkgtN2AR",
+      "Name": "Joe LaFramboise",
+      "Lead_Scoring_Combined__c": null,
+      "DB_Created_Date_without_Time__c": "2024-10-24"
+    }
+  ]
+}
