@@ -1,176 +1,669 @@
-{
-  "totalSize": 17,
-  "done": true,
-  "records": [
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000Cj8CF2AZ"
-      },
-      "Id": "00QPA00000Cj8CF2AZ",
-      "Name": "Christina Lucky",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CjZ182AF"
-      },
-      "Id": "00QPA00000CjZ182AF",
-      "Name": "Fname Lname",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CjozR2AR"
-      },
-      "Id": "00QPA00000CjozR2AR",
-      "Name": "Fname Lname",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CjpDx2AJ"
-      },
-      "Id": "00QPA00000CjpDx2AJ",
-      "Name": "Fname Lname",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CjzbV2AR"
-      },
-      "Id": "00QPA00000CjzbV2AR",
-      "Name": "Ben Bury",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000Ck1IL2AZ"
-      },
-      "Id": "00QPA00000Ck1IL2AZ",
-      "Name": "Beata Gocyk-Farber",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000Ck99R2AR"
-      },
-      "Id": "00QPA00000Ck99R2AR",
-      "Name": "Jennifer Harris",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkHBp2AN"
-      },
-      "Id": "00QPA00000CkHBp2AN",
-      "Name": "Lisa Brimm",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkImD2AV"
-      },
-      "Id": "00QPA00000CkImD2AV",
-      "Name": "Lori Berstein",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkQS12AN"
-      },
-      "Id": "00QPA00000CkQS12AN",
-      "Name": "Patrick Radachi",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkT9l2AF"
-      },
-      "Id": "00QPA00000CkT9l2AF",
-      "Name": "Roya Capasso",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkTmT2AV"
-      },
-      "Id": "00QPA00000CkTmT2AV",
-      "Name": "Kirt Martsching",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkV9x2AF"
-      },
-      "Id": "00QPA00000CkV9x2AF",
-      "Name": "Karol Klinker",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkQGk2AN"
-      },
-      "Id": "00QPA00000CkQGk2AN",
-      "Name": "Ling Li",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkXN42AN"
-      },
-      "Id": "00QPA00000CkXN42AN",
-      "Name": "Roya Capasso",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkaRN2AZ"
-      },
-      "Id": "00QPA00000CkaRN2AZ",
-      "Name": "Rishi Ladwa",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    },
-    {
-      "attributes": {
-        "type": "Lead",
-        "url": "/services/data/v41.0/sobjects/Lead/00QPA00000CkgtN2AR"
-      },
-      "Id": "00QPA00000CkgtN2AR",
-      "Name": "Joe LaFramboise",
-      "Lead_Scoring_Combined__c": null,
-      "DB_Created_Date_without_Time__c": "2024-10-24"
-    }
-  ]
-}
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Aaron",
+		                lastname: 			"Blackmore",
+		                "pk.emailaddress": 	"aaron.blackmore\u0040thomsonreuters.com",
+		                groupName: 			"Abogado Sales",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-10-04T15:43:10Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8169049"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Abby",
+		                lastname: 			"Reid",
+		                "pk.emailaddress": 	"Abby.Reid\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - ONE SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-07-06T19:01:06Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9034324"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Adrian",
+		                lastname: 			"Matthews",
+		                "pk.emailaddress": 	"adrian.matthews\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-05-24T16:45:17Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9264458"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Adrian",
+		                lastname: 			"Roup",
+		                "pk.emailaddress": 	"adrian.roup\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-06T19:04:56Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9247581"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Aisha",
+		                lastname: 			"Rajput",
+		                "pk.emailaddress": 	"Aisha.Rajput\u0040thomsonreuters.com",
+		                groupName: 			"Inside Sales - SE",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-06-23T16:00:38Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8395625"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Alan",
+		                lastname: 			"Neesen",
+		                "pk.emailaddress": 	"Alan.Neesen\u0040thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"54268"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Alex",
+		                lastname: 			"Dahl",
+		                "pk.emailaddress": 	"Alejandro.Dahl\u0040thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"52844"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Alex",
+		                lastname: 			"Flaschenriem",
+		                "pk.emailaddress": 	"alex.flaschenriem\u0040thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-02-27T19:37:03Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8875564"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Alex",
+		                lastname: 			"Hamre",
+		                "pk.emailaddress": 	"alex.hamre\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-05-19T15:38:12Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8989971"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Alex",
+		                lastname: 			"Hill",
+		                "pk.emailaddress": 	"Alex.Hill\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"51922"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Alex",
+		                lastname: 			"lessard",
+		                "pk.emailaddress": 	"alex.lessard\u0040thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-31T14:08:54Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8852676"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Alex",
+		                lastname: 			"Lopez",
+		                "pk.emailaddress": 	"Alex.Lopez\u0040thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"54149"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Alex",
+		                lastname: 			"Snyder",
+		                "pk.emailaddress": 	"alex.snyder\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-02-09T17:33:25Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"4518118"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Alexander",
+		                lastname: 			"Kaufman",
+		                "pk.emailaddress": 	"Alexander.kaufman\u0040thomsonreuters.com",
+		                groupName: 			"FindLaw Sales Executives",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-08-26T19:11:34Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9355312"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Alicia",
+		                lastname: 			"Devine",
+		                "pk.emailaddress": 	"alicia.devine\u0040thomsonreuters.com",
+		                groupName: 			"FindLaw Sales Executives",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-21T00:48:39Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9372978"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Aloette",
+		                lastname: 			"Gardner",
+		                "pk.emailaddress": 	"aloette.gardner\u0040thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-08T18:52:00Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9306505"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Alsy",
+		                lastname: 			"Brinkmeyer",
+		                "pk.emailaddress": 	"Alsy.Brinkmeyer\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"51919"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Amanda",
+		                lastname: 			"Smyth",
+		                "pk.emailaddress": 	"amanda.smyth\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-08-23T01:13:11Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9331374"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Amit",
+		                lastname: 			"Cohen",
+		                "pk.emailaddress": 	"amit.cohen\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-06-17T20:09:11Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9127736"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Amy",
+		                lastname: 			"Flaschenriem",
+		                "pk.emailaddress": 	"amy.flaschenriem\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53274"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Amy",
+		                lastname: 			"Mccleary",
+		                "pk.emailaddress": 	"Amy.McCleary\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-09-12T23:43:02Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9016484"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Anderson",
+		                lastname: 			"Clark",
+		                "pk.emailaddress": 	"anderson.clark\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-09-26T22:19:47Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9332845"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Andrew",
+		                lastname: 			"Edwards",
+		                "pk.emailaddress": 	"Andrew.Edwards\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-07-26T22:53:50Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8399089"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Andrew",
+		                lastname: 			"Hargis",
+		                "pk.emailaddress": 	"Andrew.Hargis\u0040thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-11T19:09:13Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9402331"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Angela",
+		                lastname: 			"Reed",
+		                "pk.emailaddress": 	"Angela.Reed\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-06-13T21:32:21Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8426271"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Annette",
+		                lastname: 			"Planey",
+		                "pk.emailaddress": 	"annette.planey\u0040thomsonreuters.com",
+		                groupName: 			"FindLaw Sales Executives",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-09-09T13:10:42Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9363095"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Annie",
+		                lastname: 			"Feste",
+		                "pk.emailaddress": 	"annie.feste\u0040thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-05-08T15:29:10Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9290380"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Ann Marie",
+		                lastname: 			"Hayes",
+		                "pk.emailaddress": 	"annmarie.hayes\u0040thomsonreuters.com",
+		                groupName: 			"Super Lawyers",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-29T14:52:34Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"2096069"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Art",
+		                lastname: 			"Giles",
+		                "pk.emailaddress": 	"art.giles\u0040thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-10-14T19:10:54Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8743517"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Ash",
+		                lastname: 			"Khan",
+		                "pk.emailaddress": 	"Ash.khan\u0040thomsonreuters.com",
+		                groupName: 			"FindLaw Sales Executives",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-02T13:35:59Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9353560"
+		            }
+            	
+            ]
+        }
+Total de páginas processadas: 2
