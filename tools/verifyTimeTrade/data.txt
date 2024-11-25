@@ -1,0 +1,4993 @@
+...
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Cole",
+		                lastname: 			"Michaelson",
+		                "pk.emailaddress": 	"cole.michaelson@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53687"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Colin",
+		                lastname: 			"Richardson",
+		                "pk.emailaddress": 	"colin.richardson@thomsonreuters.com",
+		                groupName: 			"Super Lawyers",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-14T22:34:42Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"2351065"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Colleen",
+		                lastname: 			"Gamble",
+		                "pk.emailaddress": 	"Colleen.Gamble@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-06-21T23:47:19Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8959342"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Colleen",
+		                lastname: 			"Kerr",
+		                "pk.emailaddress": 	"colleen.kerr@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												""
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9402367"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"CONOR",
+		                lastname: 			"BURKE",
+		                "pk.emailaddress": 	"CONOR.BURKE@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-11-15T17:52:06Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8796803"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Corey",
+		                lastname: 			"Lerche",
+		                "pk.emailaddress": 	"corey.lerche@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-21T18:54:51Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9248779"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"cortney",
+		                lastname: 			"hilton",
+		                "pk.emailaddress": 	"cortney.hilton@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53075"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Daniel",
+		                lastname: 			"Camargo",
+		                "pk.emailaddress": 	"daniel.camargo@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-03-04T15:22:44Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9242988"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Dan",
+		                lastname: 			"Dawsey",
+		                "pk.emailaddress": 	"Daniel.Dawsey@Thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-08-02T16:12:08Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"1788842"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Danielle",
+		                lastname: 			"Babcock",
+		                "pk.emailaddress": 	"danielle.babcock@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-14T18:45:52Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"6251933"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Dani",
+		                lastname: 			"Witte",
+		                "pk.emailaddress": 	"Danielle.Witte@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-07-22T20:41:59Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8315951"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Darla",
+		                lastname: 			"O\u0027Connor",
+		                "pk.emailaddress": 	"darla.oconnor@thomsonreuters.com",
+		                groupName: 			"Super Lawyers",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-05-08T20:48:07Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"5409173"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Dave",
+		                lastname: 			"Gilmartin",
+		                "pk.emailaddress": 	"Dave.Gilmartin@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-15T19:41:41Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9300444"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Dave",
+		                lastname: 			"Hughes",
+		                "pk.emailaddress": 	"dave.hughes@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-08T14:20:10Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9288406"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"David",
+		                lastname: 			"Bolick",
+		                "pk.emailaddress": 	"david.bolick@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-05-10T20:01:58Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8850327"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Deborah",
+		                lastname: 			"Downs",
+		                "pk.emailaddress": 	"deborah.downs@thomsonreuters.com",
+		                groupName: 			"FindLaw Sales Executives",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-21T14:40:59Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9359681"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Debra",
+		                lastname: 			"Schoenbauer",
+		                "pk.emailaddress": 	"Debra.Schoenbauer@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-08T17:36:27Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9403838"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Demetrius",
+		                lastname: 			"McDaniel",
+		                "pk.emailaddress": 	"demetrius.mcdaniel@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"54116"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Denise Hall",
+		                lastname: 			"Green",
+		                "pk.emailaddress": 	"Denise.Hall-Green@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-06-17T21:39:35Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9293021"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Derek",
+		                lastname: 			"Kecker",
+		                "pk.emailaddress": 	"derek.kecker@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53512"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Dom",
+		                lastname: 			"Piselli",
+		                "pk.emailaddress": 	"Dominic.Piselli@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-12-01T14:08:40Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8611496"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"DONALD",
+		                lastname: 			"ANNICELLI",
+		                "pk.emailaddress": 	"donald.annicelli@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-05-15T15:50:05Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"7810313"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Donald",
+		                lastname: 			"Giles",
+		                "pk.emailaddress": 	"DONALD.GILES@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-10-07T15:12:37Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8743331"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Donald",
+		                lastname: 			"Hochbrunn",
+		                "pk.emailaddress": 	"donald.hochbrunn@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-30T20:13:17Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8881870"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Elena",
+		                lastname: 			"Reytel",
+		                "pk.emailaddress": 	"elena.reytel@thomsonreuters.com",
+		                groupName: 			"Account Management",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-09-18T15:11:07Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"5177752"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Elizabeth",
+		                lastname: 			"Merrick",
+		                "pk.emailaddress": 	"Elizabeth.Merrick@thomsonreuters.com",
+		                groupName: 			"Inside Sales - OTC",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-24T13:47:14Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8863513"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Elizabeth",
+		                lastname: 			"Richardson",
+		                "pk.emailaddress": 	"ElizabethJ.Richardson@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-26T21:23:00Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8345161"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Elly",
+		                lastname: 			"Odman",
+		                "pk.emailaddress": 	"elly.odman@thomsonreuters.com",
+		                groupName: 			"Account Management",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-04-04T15:17:15Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"5694172"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Emily",
+		                lastname: 			"Olmstead",
+		                "pk.emailaddress": 	"emily.olmstead@thomsonreuters.com",
+		                groupName: 			"Field Sales - MLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-07-20T15:06:05Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"6175632"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Emma",
+		                lastname: 			"Bromley",
+		                "pk.emailaddress": 	"emma.bromley@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-06-24T13:44:38Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"6872030"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Eric",
+		                lastname: 			"Geller",
+		                "pk.emailaddress": 	"Eric.Geller@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-08-10T21:34:22Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"6872795"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Eric",
+		                lastname: 			"Olson",
+		                "pk.emailaddress": 	"eric.olson@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-05-23T17:21:39Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8962075"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Eric",
+		                lastname: 			"Stehley",
+		                "pk.emailaddress": 	"eric.stehley@thomsonreuters.com",
+		                groupName: 			"Account Management",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-07-01T14:02:08Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"3278992"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Erik",
+		                lastname: 			"Everson",
+		                "pk.emailaddress": 	"Erik.Everson@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"54150"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Erik",
+		                lastname: 			"Morse",
+		                "pk.emailaddress": 	"Erik.Morse@thomsonreuters.com",
+		                groupName: 			"Inside Sales - OTC",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-31T15:49:21Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8000421"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Erik",
+		                lastname: 			"Nielsen",
+		                "pk.emailaddress": 	"erik.nielsen@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-05T19:31:48Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9307474"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Evan",
+		                lastname: 			"Richardson",
+		                "pk.emailaddress": 	"evan.richardson@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"51930"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Fadi",
+		                lastname: 			"Aldanal",
+		                "pk.emailaddress": 	"fadi.aldanal@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-07-26T02:26:28Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8750220"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Faisal",
+		                lastname: 			"Jama",
+		                "pk.emailaddress": 	"Faisal.Jama@thomsonreuters.com",
+		                groupName: 			"Account Management",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"44164"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Flip",
+		                lastname: 			"Arkulary",
+		                "pk.emailaddress": 	"flip.arkulary@thomsonreuters.com",
+		                groupName: 			"Super Lawyers",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												""
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"3772268"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Francis",
+		                lastname: 			"Bungue",
+		                "pk.emailaddress": 	"francis.bungue@thomsonreuters.com",
+		                groupName: 			"Account Management",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-04-22T21:04:34Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"3771956"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Fred",
+		                lastname: 			"Ci",
+		                "pk.emailaddress": 	"fred.ci@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-11-27T16:44:44Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8857545"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"George",
+		                lastname: 			"Martins",
+		                "pk.emailaddress": 	"george.martins@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-20T17:19:17Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9401979"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"george",
+		                lastname: 			"velazquez",
+		                "pk.emailaddress": 	"george.velazquez@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-30T15:53:13Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8881119"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"grant",
+		                lastname: 			"lucarelli",
+		                "pk.emailaddress": 	"grant.lucarelli@thomsonreuters.com",
+		                groupName: 			"FindLaw Sales Executives",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-09-27T20:19:24Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9359872"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Greg",
+		                lastname: 			"Smith-Wilcox",
+		                "pk.emailaddress": 	"Greg.Smith-Wilcox@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-02-26T18:24:52Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"6872800"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Greg",
+		                lastname: 			"Weinman",
+		                "pk.emailaddress": 	"Gregory.Weinman@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												""
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8989990"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Griffin",
+		                lastname: 			"Meyers",
+		                "pk.emailaddress": 	"Griffin.Meyer@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-06T18:30:01Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8957955"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Heather",
+		                lastname: 			"Lunden",
+		                "pk.emailaddress": 	"heather.lunden@thomsonreuters.com",
+		                groupName: 			"Inside Sales - OTC",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-03-21T15:46:41Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"5302296"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Hemanth",
+		                lastname: 			"Nama",
+		                "pk.emailaddress": 	"hemanth.nama@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-06T11:32:20Z"
+											,
+						admin:				
+												true
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8736898"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Iver",
+		                lastname: 			"Fundaun",
+		                "pk.emailaddress": 	"Iver.Fundaun@thomsonreuters.com",
+		                groupName: 			"FindLaw Sales Executives",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-23T17:16:40Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9354794"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"jack",
+		                lastname: 			"schweich",
+		                "pk.emailaddress": 	"jack.schweich@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53080"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"jacob",
+		                lastname: 			"stine",
+		                "pk.emailaddress": 	"jacob.stine@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53074"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jacqueline",
+		                lastname: 			"Martinez",
+		                "pk.emailaddress": 	"Jacqueline.Martinez@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-04-29T17:51:37Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9283760"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jamal",
+		                lastname: 			"Galehdari",
+		                "pk.emailaddress": 	"jamal.galehdari@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-07-31T14:54:36Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"5159409"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"James",
+		                lastname: 			"Burda",
+		                "pk.emailaddress": 	"james.burda@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-06-04T18:10:38Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9307310"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jarrett",
+		                lastname: 			"Tyus",
+		                "pk.emailaddress": 	"Jarrett.Tyus@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-05-02T16:19:37Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8783531"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jason",
+		                lastname: 			"McConnell",
+		                "pk.emailaddress": 	"jason.mcconnell@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-07-19T13:51:41Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9333333"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jason",
+		                lastname: 			"Torkelson",
+		                "pk.emailaddress": 	"jason.torkelson@thomsonreuters.com",
+		                groupName: 			"Super Lawyers",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-02-17T22:48:03Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"3890945"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jeff",
+		                lastname: 			"Sanders",
+		                "pk.emailaddress": 	"jeff.sanders@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-22T20:01:44Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9222713"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jeffrey",
+		                lastname: 			"Balkin",
+		                "pk.emailaddress": 	"jeffrey.balkin@thomsonreuters.com",
+		                groupName: 			"Inside Sales - SE",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-30T11:31:40Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8398154"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jennifer",
+		                lastname: 			"Bell",
+		                "pk.emailaddress": 	"jennifer.bell2@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-06-04T22:55:34Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9307631"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"JENNIFER",
+		                lastname: 			"LEONARD",
+		                "pk.emailaddress": 	"JENNIFER.LEONARD@thomsonreuters.com",
+		                groupName: 			"Field Sales - MLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-06-15T18:16:44Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8382064"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jennifer",
+		                lastname: 			"Utterback",
+		                "pk.emailaddress": 	"jennifer.utterback@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												""
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"5157827"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jennifer",
+		                lastname: 			"Francis",
+		                "pk.emailaddress": 	"Jennifier.Francis@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-06-04T22:47:05Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9307623"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jerry",
+		                lastname: 			"Nazaire",
+		                "pk.emailaddress": 	"jerry.nazaire@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-09-13T15:34:12Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9103607"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"jessica",
+		                lastname: 			"larson",
+		                "pk.emailaddress": 	"jessica.larson@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-02-01T20:02:57Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8885443"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jim",
+		                lastname: 			"Bodnar",
+		                "pk.emailaddress": 	"JIM.BODNAR@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-31T17:54:42Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8852730"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jim",
+		                lastname: 			"Carlen",
+		                "pk.emailaddress": 	"jim.carlen@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-08-01T16:38:17Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"5329858"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Joel",
+		                lastname: 			"Acosta",
+		                "pk.emailaddress": 	"Joel.Acosta@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-05-07T19:39:47Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8277332"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"John",
+		                lastname: 			"Toomey",
+		                "pk.emailaddress": 	"John.Toomey@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-08-01T14:29:38Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"7636634"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Johnny",
+		                lastname: 			"Thomas",
+		                "pk.emailaddress": 	"johnny.thomas@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-08T22:18:09Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9320370"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jordan",
+		                lastname: 			"Johnson",
+		                "pk.emailaddress": 	"jordan.johnson@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												""
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8422002"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jordan",
+		                lastname: 			"Robak",
+		                "pk.emailaddress": 	"Jordan.Robak@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-12-04T19:11:12Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8994251"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Jose",
+		                lastname: 			"Zimbron",
+		                "pk.emailaddress": 	"Jose.Zimbron@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"54039"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Josh",
+		                lastname: 			"Lottman",
+		                "pk.emailaddress": 	"josh.lottman@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-05T20:04:16Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9243189"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Joshua",
+		                lastname: 			"Meyers",
+		                "pk.emailaddress": 	"joshua.meyers@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-09-17T16:30:56Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9264379"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Joshua",
+		                lastname: 			"Tang",
+		                "pk.emailaddress": 	"joshua.tang@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"54265"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Justin",
+		                lastname: 			"Brewer",
+		                "pk.emailaddress": 	"Justin.Brewer@thomsonreuters.com",
+		                groupName: 			"Termed",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"32746"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Justin",
+		                lastname: 			"Niedzwecki",
+		                "pk.emailaddress": 	"Justin.Niedzwecki@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-09-06T13:27:59Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"7725501"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Justin",
+		                lastname: 			"Schuoler",
+		                "pk.emailaddress": 	"Justin.Schuoler@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-04-05T21:53:09Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8464632"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Justin",
+		                lastname: 			"West",
+		                "pk.emailaddress": 	"Justin.west@thomsonreuters.com",
+		                groupName: 			"FindLaw Sales Executives",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-11T18:48:50Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9352765"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Karem",
+		                lastname: 			"Silva",
+		                "pk.emailaddress": 	"karem.silva@thomsonreuters.com",
+		                groupName: 			"Admin Users",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-05-08T22:21:19Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9050207"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Karen",
+		                lastname: 			"Fraser",
+		                "pk.emailaddress": 	"karen.fraser@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-10-19T22:04:54Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9077958"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Kat",
+		                lastname: 			"O\u0027Donnell",
+		                "pk.emailaddress": 	"Kat.O\u0027Donnell@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-09-05T13:31:19Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8983391"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Katie",
+		                lastname: 			"Jacob",
+		                "pk.emailaddress": 	"katie.jacob@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53523"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Kevin",
+		                lastname: 			"Cabaniss",
+		                "pk.emailaddress": 	"kevin.cabaniss@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-01-29T21:31:32Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9099353"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Kevin",
+		                lastname: 			"Schuyler",
+		                "pk.emailaddress": 	"Kevin.Schuyler@thomsonreuters.com",
+		                groupName: 			"Termed",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"44655"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Kevin",
+		                lastname: 			"Tilton",
+		                "pk.emailaddress": 	"kevin.tilton@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-18T01:36:31Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9405737"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Khaled",
+		                lastname: 			"Khousi",
+		                "pk.emailaddress": 	"Khaled.Khousi@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"51330"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Kirby",
+		                lastname: 			"Babineaux",
+		                "pk.emailaddress": 	"Kirby.Babineaux@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-02-28T18:32:43Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8409998"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Kristen",
+		                lastname: 			"Wolcott",
+		                "pk.emailaddress": 	"kristen.wolcott@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"54270"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Kristine",
+		                lastname: 			"Haas",
+		                "pk.emailaddress": 	"Kristine.Haas@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-02-14T14:47:09Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8857276"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Kurtis",
+		                lastname: 			"Burley",
+		                "pk.emailaddress": 	"kurtis.burley@thomsonreuters.com",
+		                groupName: 			"Account Management",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-04-02T17:57:38Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8512146"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Kyle",
+		                lastname: 			"Ringeisen",
+		                "pk.emailaddress": 	"Kyle.Ringeisen@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-30T19:36:38Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8881760"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Kyron",
+		                lastname: 			"Loving",
+		                "pk.emailaddress": 	"kyron.loving@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-03-27T15:05:56Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9090888"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Lamar",
+		                lastname: 			"Wilborn",
+		                "pk.emailaddress": 	"LAMAR.WILBORN@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-01-25T17:59:02Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8925778"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Lauren",
+		                lastname: 			"Conley",
+		                "pk.emailaddress": 	"Lauren.Conley@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-03-08T19:18:59Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8410079"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Leah",
+		                lastname: 			"Gangl",
+		                "pk.emailaddress": 	"leah.gangl@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"52125"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Luke",
+		                lastname: 			"McCarthy",
+		                "pk.emailaddress": 	"luke.mccarthy@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-08-02T13:30:16Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9288282"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Luke",
+		                lastname: 			"Newpower",
+		                "pk.emailaddress": 	"luke.newpower@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												""
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8849664"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Luke",
+		                lastname: 			"Oostindie",
+		                "pk.emailaddress": 	"luke.oostindie@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-08-13T15:31:47Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"7754229"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Mike",
+		                lastname: 			"Scott",
+		                "pk.emailaddress": 	"m.scott@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"51007"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Madelyn",
+		                lastname: 			"Bray",
+		                "pk.emailaddress": 	"Madelyn.Hildenbrand@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"54148"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Mae",
+		                lastname: 			"Corporal",
+		                "pk.emailaddress": 	"mae.corporal@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-11T23:58:07Z"
+											,
+						admin:				
+												true
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8218016"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Maida",
+		                lastname: 			"Negron",
+		                "pk.emailaddress": 	"maida.negron@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-04-19T19:15:09Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9264991"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Mandi",
+		                lastname: 			"Parsons",
+		                "pk.emailaddress": 	"mandi.parsons@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-03-25T03:00:02Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9222716"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Mariah",
+		                lastname: 			"Kosidowski",
+		                "pk.emailaddress": 	"Mariah.Kosidowski@thomsonreuters.com",
+		                groupName: 			"Inside Sales - OTC",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53769"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Maritza",
+		                lastname: 			"Willis",
+		                "pk.emailaddress": 	"maritza.willis@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-07-06T12:18:49Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8574675"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Marquis",
+		                lastname: 			"Gerald",
+		                "pk.emailaddress": 	"MARQUIS.GERALD@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"54282"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Matt",
+		                lastname: 			"Geller",
+		                "pk.emailaddress": 	"matt.geller@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-05-24T20:07:01Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"6107199"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Matt",
+		                lastname: 			"Giannini",
+		                "pk.emailaddress": 	"Matt.Giannini@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-04-04T17:07:49Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8868675"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Matthew",
+		                lastname: 			"Leis",
+		                "pk.emailaddress": 	"Matt.Leis@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-21T17:08:00Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8510269"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Matt",
+		                lastname: 			"Reckard",
+		                "pk.emailaddress": 	"matt.reckard@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-04-24T22:32:30Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9265752"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Matt",
+		                lastname: 			"Zung",
+		                "pk.emailaddress": 	"matthew.zung@thomsonreuters.com",
+		                groupName: 			"Account Management",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												""
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"2642693"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Maura",
+		                lastname: 			"Thomson",
+		                "pk.emailaddress": 	"Maura.Thomson@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-02-07T19:42:43Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8415988"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Maxwel",
+		                lastname: 			"Bettendorf",
+		                "pk.emailaddress": 	"maxwel.bettendorf@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-11T20:43:22Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9102856"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Maz",
+		                lastname: 			"Vaziri",
+		                "pk.emailaddress": 	"Mazyar.Vaziri@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-11-28T22:40:07Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8838942"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Megan",
+		                lastname: 			"Fritze",
+		                "pk.emailaddress": 	"megan.fritze@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-05-04T14:36:38Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8509997"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Megan",
+		                lastname: 			"Guffey",
+		                "pk.emailaddress": 	"Megan.Guffey@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-04-11T18:09:04Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"7794706"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Marketing",
+		                lastname: 			"Operations Automation",
+		                "pk.emailaddress": 	"Megan.Halverson@thomsonreuters.com",
+		                groupName: 			"Admin Users",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-22T21:11:50Z"
+											,
+						admin:				
+												-1
+											,
+						usesLicense:		
+												-1
+											,
+						verifiedUser:		true,
+		                id: 				"8316152"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Meghan",
+		                lastname: 			"Tuccitto",
+		                "pk.emailaddress": 	"Meghan.Tuccitto@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-07-12T13:47:31Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8340479"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Melissa",
+		                lastname: 			"Bowen",
+		                "pk.emailaddress": 	"melissa.bowen@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-02-26T19:31:42Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9062419"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Melissa",
+		                lastname: 			"Sagredo",
+		                "pk.emailaddress": 	"Melissa.Sagredo@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-08-16T04:04:04Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8650828"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Melony",
+		                lastname: 			"Shook",
+		                "pk.emailaddress": 	"melony.shook@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-05-28T16:00:54Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9264370"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Mike",
+		                lastname: 			"Bragar",
+		                "pk.emailaddress": 	"Michael.Bragar@thomsonreuters.com",
+		                groupName: 			"Field Sales - ONE SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-09-13T17:31:02Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9051294"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Michael",
+		                lastname: 			"Fobbe",
+		                "pk.emailaddress": 	"Michael.Fobbe@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"54028"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Michael",
+		                lastname: 			"Loonan",
+		                "pk.emailaddress": 	"michael.loonan@thomsonreuters.com",
+		                groupName: 			"Super Lawyers",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-07T01:07:09Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"1579962"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Michael",
+		                lastname: 			"Martin",
+		                "pk.emailaddress": 	"michael.martin@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-09-07T16:35:35Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9094636"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Mike",
+		                lastname: 			"Brown",
+		                "pk.emailaddress": 	"michael.s.brown@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-01-17T21:14:52Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"854595"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Michael",
+		                lastname: 			"Miller",
+		                "pk.emailaddress": 	"michaelmiller2@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"33001"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Mike",
+		                lastname: 			"Byrne",
+		                "pk.emailaddress": 	"mike.byrne@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"51920"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Mike",
+		                lastname: 			"Lea",
+		                "pk.emailaddress": 	"Mike.Lea@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-03-17T13:48:33Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8934141"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Mike",
+		                lastname: 			"Piczon",
+		                "pk.emailaddress": 	"mike.piczon@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-22T21:54:35Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9372134"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Mike",
+		                lastname: 			"Sheehan",
+		                "pk.emailaddress": 	"mike.sheehan@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-07-22T15:12:42Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"2098041"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Misael",
+		                lastname: 			"Fernandez",
+		                "pk.emailaddress": 	"Misael.Fernandez@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"52522"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Mitch",
+		                lastname: 			"Dudek",
+		                "pk.emailaddress": 	"mitch.dudek@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-03-20T13:23:10Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8881613"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Molly",
+		                lastname: 			"Larson",
+		                "pk.emailaddress": 	"molly.larson@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-07-31T21:46:42Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9328044"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Morgan",
+		                lastname: 			"Barbee",
+		                "pk.emailaddress": 	"Morgan.Barbee@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-06-30T16:28:20Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9040648"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Mounika",
+		                lastname: 			"Kattakole",
+		                "pk.emailaddress": 	"Mounika.Kattakole@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-02-24T13:22:45Z"
+											,
+						admin:				
+												true
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8858137"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Nancy",
+		                lastname: 			"Thangamani",
+		                "pk.emailaddress": 	"Nancy.Thangamani@thomsonreuters.com",
+		                groupName: 			"Admin Users",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-02-10T13:38:46Z"
+											,
+						admin:				
+												true
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8847895"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Nathan",
+		                lastname: 			"Erickson",
+		                "pk.emailaddress": 	"nathan.erickson@thomsonreuters.com",
+		                groupName: 			"Account Management",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-06T17:36:18Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8850150"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Nathan",
+		                lastname: 			"Shugrue",
+		                "pk.emailaddress": 	"nathan.shugrue@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-25T16:27:57Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9288321"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Neil",
+		                lastname: 			"Myklebust",
+		                "pk.emailaddress": 	"neil.myklebust@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-09T13:41:51Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8852043"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Nick",
+		                lastname: 			"Courtney",
+		                "pk.emailaddress": 	"nick.courtney@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-20T22:39:48Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8866084"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Nick",
+		                lastname: 			"Divish",
+		                "pk.emailaddress": 	"nick.divish@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-04-09T20:52:18Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8870286"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Nick",
+		                lastname: 			"Hoeffel",
+		                "pk.emailaddress": 	"nick.hoeffel@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-04-02T19:46:29Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9265217"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Nick",
+		                lastname: 			"Hoelmer",
+		                "pk.emailaddress": 	"nick.hoelmer@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-05-15T18:03:52Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"5178961"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Nicolas",
+		                lastname: 			"Borja",
+		                "pk.emailaddress": 	"nicolas.borja@thomsonreuters.com",
+		                groupName: 			"Admin Users",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-15T19:37:27Z"
+											,
+						admin:				
+												true
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9228328"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Nicolas",
+		                lastname: 			"Epperson",
+		                "pk.emailaddress": 	"Nicolas.Epperson@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53969"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Nicolas",
+		                lastname: 			"Vazquez",
+		                "pk.emailaddress": 	"Nicolas.Vazquez@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-08T15:42:32Z"
+											,
+						admin:				
+												true
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"6963090"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Nicole",
+		                lastname: 			"de Guzman",
+		                "pk.emailaddress": 	"nicole.deguzman@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												""
+											,
+						admin:				
+												true
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8034571"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Nicole",
+		                lastname: 			"Zinke",
+		                "pk.emailaddress": 	"nicole.zinke@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-24T14:28:57Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9324688"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Pam",
+		                lastname: 			"Harper",
+		                "pk.emailaddress": 	"Pam.Harper@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-09-28T01:38:47Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9307358"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Paul",
+		                lastname: 			"Cahill",
+		                "pk.emailaddress": 	"paul.cahill@thomsonreuters.com",
+		                groupName: 			"Account Management",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-07-29T16:23:05Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"3385610"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Paul",
+		                lastname: 			"Garno",
+		                "pk.emailaddress": 	"paul.garno@thomsonreuters.com",
+		                groupName: 			"Lead Solutions",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-07-14T19:16:58Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"2350765"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Paul",
+		                lastname: 			"Malamood",
+		                "pk.emailaddress": 	"paul.malamood@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-06-03T15:23:17Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9264714"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Pavani",
+		                lastname: 			"Guntupalli",
+		                "pk.emailaddress": 	"Pavani.Guntupalli@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-12T12:43:43Z"
+											,
+						admin:				
+												true
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9302375"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Quinton",
+		                lastname: 			"Vallin",
+		                "pk.emailaddress": 	"quinton.vallin@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"48879"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"rachel",
+		                lastname: 			"gunderson",
+		                "pk.emailaddress": 	"rachel.gunderson@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53076"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Rachel",
+		                lastname: 			"Hunter",
+		                "pk.emailaddress": 	"rachel.hunter@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-09-24T19:19:18Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"6322262"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Bharath",
+		                lastname: 			"Reddy",
+		                "pk.emailaddress": 	"RamreddoloBharath.Reddy@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-08-26T11:53:28Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8690924"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Ray",
+		                lastname: 			"Spellerberg",
+		                "pk.emailaddress": 	"Ray.spellerberg@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-14T13:50:22Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9357135"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Rebecca",
+		                lastname: 			"Rosado",
+		                "pk.emailaddress": 	"rebecca.rosado@thomsonreuters.com",
+		                groupName: 			"Abogado Sales",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-17T15:08:51Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"7767481"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Regina",
+		                lastname: 			"Gines",
+		                "pk.emailaddress": 	"regina.gines@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-07T14:20:11Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9264328"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Remi",
+		                lastname: 			"Nagle",
+		                "pk.emailaddress": 	"Remi.Nagle@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53748"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Richard",
+		                lastname: 			"Nichols",
+		                "pk.emailaddress": 	"richard.nichols@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-08-08T17:43:52Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9071814"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Richard",
+		                lastname: 			"Reardon",
+		                "pk.emailaddress": 	"Richard.Reardon@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53530"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Rick",
+		                lastname: 			"BurmeisterIII",
+		                "pk.emailaddress": 	"rick.burmeisterIII@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-25T12:56:31Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8875516"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Rita",
+		                lastname: 			"Lahood",
+		                "pk.emailaddress": 	"Rita.Lahood@thomsonreuters.com",
+		                groupName: 			"FindLaw Sales Executives",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-02T16:59:16Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9377989"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Robert",
+		                lastname: 			"Breschel",
+		                "pk.emailaddress": 	"robert.breschel@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-06-03T19:35:41Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9224392"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Robert",
+		                lastname: 			"Burns",
+		                "pk.emailaddress": 	"robert.burns@thomsonreuters.com",
+		                groupName: 			"Super Lawyers",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-31T18:12:34Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"2353146"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Robert",
+		                lastname: 			"Poncin",
+		                "pk.emailaddress": 	"robert.poncin@thomsonreuters.com",
+		                groupName: 			"Super Lawyers",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-06-04T22:12:11Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"1570097"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Rod",
+		                lastname: 			"Jackson",
+		                "pk.emailaddress": 	"rod.jackson@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-10T18:49:05Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8855002"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Rosanne",
+		                lastname: 			"Mauro",
+		                "pk.emailaddress": 	"ROSANNE.MAURO@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-10-17T18:53:26Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8744088"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Russ",
+		                lastname: 			"LaFlash",
+		                "pk.emailaddress": 	"Russ.LaFlash@thomsonreuters.com",
+		                groupName: 			"Abogado Sales",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-03-01T17:41:06Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9188461"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Ryan",
+		                lastname: 			"Kleinhuizen",
+		                "pk.emailaddress": 	"ryan.kleinhuizen@thomsonreuters.com",
+		                groupName: 			"FindLaw Sales Executives",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-08-13T17:40:26Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9347574"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Ryan",
+		                lastname: 			"Tauer",
+		                "pk.emailaddress": 	"ryan.tauer@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-07-28T22:04:44Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"2119508"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Ryan",
+		                lastname: 			"Wooley",
+		                "pk.emailaddress": 	"Ryan.Wooley@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-06-06T20:08:47Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8973953"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Sam",
+		                lastname: 			"DeLuca",
+		                "pk.emailaddress": 	"Sam.DeLuca@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"52205"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Samantha",
+		                lastname: 			"Brackett",
+		                "pk.emailaddress": 	"Samantha.Brackett@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-10-17T17:50:22Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9382927"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Sandra",
+		                lastname: 			"del Tiempo",
+		                "pk.emailaddress": 	"Sandra.delTiempo@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-22T18:08:46Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9307193"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Sanjeev",
+		                lastname: 			"Kakumanu",
+		                "pk.emailaddress": 	"sanjeev.kakumanu@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-01-30T14:33:30Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8736905"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Sara",
+		                lastname: 			"Ashley",
+		                "pk.emailaddress": 	"sara.ashley@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-05-26T16:34:41Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8890827"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Sarah",
+		                lastname: 			"Blakley",
+		                "pk.emailaddress": 	"sarah.blakley@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-09-12T16:02:42Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"7484534"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Shaina",
+		                lastname: 			"Law",
+		                "pk.emailaddress": 	"shaina.law@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-07-22T21:09:14Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"3003654"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Shane",
+		                lastname: 			"Criss",
+		                "pk.emailaddress": 	"shane.criss@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-07-28T22:05:03Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"6036135"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Shanna",
+		                lastname: 			"Geurink",
+		                "pk.emailaddress": 	"Shanna.Geurink@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-04-14T18:57:42Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"7993787"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Silvia",
+		                lastname: 			"Baca",
+		                "pk.emailaddress": 	"silvia.baca@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53967"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Sonjia",
+		                lastname: 			"Woodyard",
+		                "pk.emailaddress": 	"sonjia.woodyard@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53084"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Sourav",
+		                lastname: 			"Tripathy",
+		                "pk.emailaddress": 	"Sourav.Tripathy@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"52626"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Stacy",
+		                lastname: 			"Woodward",
+		                "pk.emailaddress": 	"stacy.woodward@thomsonreuters.com",
+		                groupName: 			"Super Lawyers",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-09-13T19:18:58Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"2351893"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Stefanie",
+		                lastname: 			"Youngren",
+		                "pk.emailaddress": 	"Stefanie.Youngren@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-12T16:33:40Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9402080"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Stephen",
+		                lastname: 			"Jackson",
+		                "pk.emailaddress": 	"stephen.jackson2@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-03-05T23:34:30Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9241932"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"STEVE",
+		                lastname: 			"SLADE",
+		                "pk.emailaddress": 	"STEVE.SLADE@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-05-29T21:47:50Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9289251"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Steven",
+		                lastname: 			"Huenink",
+		                "pk.emailaddress": 	"STEVEN.HUENINK@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-06-13T18:55:03Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8591864"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Steven",
+		                lastname: 			"Stauff",
+		                "pk.emailaddress": 	"steven.stauff@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												""
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"1643297"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Susan",
+		                lastname: 			"Butler",
+		                "pk.emailaddress": 	"susan.a.butler@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53088"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Susan",
+		                lastname: 			"Wanzek",
+		                "pk.emailaddress": 	"susan.wanzek@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-08-27T16:32:24Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9355267"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Suzanne",
+		                lastname: 			"Blanchard",
+		                "pk.emailaddress": 	"suzanne.blanchard@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												""
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9222714"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Suzanne",
+		                lastname: 			"Parkinson",
+		                "pk.emailaddress": 	"suzanne.parkinson@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-06-12T11:46:52Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9312012"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Tami",
+		                lastname: 			"Dodd",
+		                "pk.emailaddress": 	"tami.dodd@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												""
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8197314"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"tana",
+		                lastname: 			"mays",
+		                "pk.emailaddress": 	"tana.mays@thomsonreuters.com",
+		                groupName: 			"FindLaw Sales Executives",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"54187"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Tannya",
+		                lastname: 			"DeBose",
+		                "pk.emailaddress": 	"tannya.debose@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-02-09T20:12:26Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8356469"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Tara",
+		                lastname: 			"Losen",
+		                "pk.emailaddress": 	"tara.losen@thomsonreuters.com",
+		                groupName: 			"Inside Sales - OTC",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"52314"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Taylor",
+		                lastname: 			"Heruth",
+		                "pk.emailaddress": 	"taylor.heruth@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53341"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Taylor",
+		                lastname: 			"Leis",
+		                "pk.emailaddress": 	"Taylor.Leis@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-10-25T19:57:46Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9103616"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Taylor",
+		                lastname: 			"Smith",
+		                "pk.emailaddress": 	"Taylor.Smith2@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-06-12T16:26:33Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9219863"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Teresa",
+		                lastname: 			"Tejeda",
+		                "pk.emailaddress": 	"teresa.tejeda@thomsonreuters.com",
+		                groupName: 			"Field Sales - ONE SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-11-30T01:08:44Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9053786"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Terry",
+		                lastname: 			"Daniels",
+		                "pk.emailaddress": 	"terry.daniels@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-11-13T16:25:06Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9349503"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Todd",
+		                lastname: 			"Stanley",
+		                "pk.emailaddress": 	"todd.stanley@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-20T19:13:20Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"2113299"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Tonya",
+		                lastname: 			"Bassett",
+		                "pk.emailaddress": 	"tonya.bassett@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												""
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"2096000"
+		            }
+            	
+            ]
+        }
+var userData = {
+			'providesLockedUsers' : false,
+            'items': [
+            	
+		            
+		            {
+		                firstname: 			"Tori",
+		                lastname: 			"Jennings",
+		                "pk.emailaddress": 	"tori.jennings@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-07-28T21:15:33Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"7704973"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Trevor",
+		                lastname: 			"Lewellen",
+		                "pk.emailaddress": 	"trevor.lewellen@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"51008"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Trisha",
+		                lastname: 			"Costa",
+		                "pk.emailaddress": 	"Trisha.Costa@thomsonreuters.com",
+		                groupName: 			"Inside Sales - SE",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2022-11-21T13:36:29Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8393460"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Tristan",
+		                lastname: 			"Layton",
+		                "pk.emailaddress": 	"tristan.layton@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53090"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Troy",
+		                lastname: 			"Harker",
+		                "pk.emailaddress": 	"Troy.Harker@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-08-08T20:39:08Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9345100"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Ty",
+		                lastname: 			"Heath",
+		                "pk.emailaddress": 	"ty.heath@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-01-30T15:45:36Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8881096"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Tyler",
+		                lastname: 			"Ituen",
+		                "pk.emailaddress": 	"tyler.ituen@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2024-05-06T16:53:39Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"9288514"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Valerie",
+		                lastname: 			"Badillo",
+		                "pk.emailaddress": 	"valerie.badillo@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-04-24T19:16:04Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8228020"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Walter",
+		                lastname: 			"Nunez",
+		                "pk.emailaddress": 	"Walter.Nunez@thomsonreuters.com",
+		                groupName: 			"Field Sales - SLF",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-08-09T19:47:17Z"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8966124"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Wayne",
+		                lastname: 			"Fahrenkamp",
+		                "pk.emailaddress": 	"wayne.fahrenkamp@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"53070"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Yulo",
+		                lastname: 			"Paytone",
+		                "pk.emailaddress": 	"yulo.paytone@thomsonreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"2023-11-22T14:42:55Z"
+											,
+						admin:				
+												true
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		true,
+		                id: 				"8190742"
+		            }
+            	
+		            
+		            ,
+		            
+		            {
+		                firstname: 			"Yulo",
+		                lastname: 			"Paytone",
+		                "pk.emailaddress": 	"yulo.paytone@thomsreuters.com",
+		                groupName: 			"",
+		            	isuserlocked:		true, 
+			            lastAccessed: 		
+												"Pending"
+											,
+						admin:				
+												false
+											,
+						usesLicense:		
+												0
+											,
+						verifiedUser:		false,
+		                id: 				"52632"
+		            }
+            	
+            ]
+        }
